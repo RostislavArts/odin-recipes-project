@@ -1,0 +1,14 @@
+* {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.header {
+    font-size: 24px;
+    font-weight: bold;
+    color: #B04040FF;
+}
+
+p {
+    font-size: 18px;
+}
